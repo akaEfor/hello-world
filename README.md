@@ -1,2 +1,2 @@
 # hello-world
-git branch test
+branch check out test
